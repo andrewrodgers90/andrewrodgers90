@@ -17,10 +17,14 @@ Description of Project 2
 Description of Project 1
 
 ### <h3><a href="https://github.com/andrewrodgers90/42_ft_printf">École 42: ft_printf</a></h3>
-Description of Project 2
+This project is about recreating (simply) the printf function from the <stdio.h> library.
+#### <h4>Topics introduced</h4>
++ Variadic functions
 
 ### <h3><a href="https://github.com/andrewrodgers90/42_get_next_line">École 42: get_next_line</a></h3>
-Description of Project 2
+This project is about creating a function that returns a line read from a file.
+#### <h4>Topics introduced</h4>
++ Static variables
 
 ### <h3><a href="https://github.com/andrewrodgers90/42_push_swap">École 42: push_swap</a></h3>
 Description of Project 2
@@ -29,18 +33,9 @@ Description of Project 2
 Description of Project 2
 
 ### <h3><a href="https://github.com/andrewrodgers90/42_fdf">École 42: fdf</a></h3>
-Description of Project 2
+This project is about reading a file and representing the contents as a 3D landscape.
 
-### <h3>Project 2</h3>
-Description of Project 2
-
-### <h3>Project 2</h3>
-Description of Project 2
-
-### <h3>Project 2</h3>
-Description of Project 2
-
-### <h3><a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/piscine.md">École 42: Piscine</a></h3>
+### <h3><a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/piscine.md">École 42: C Piscine</a></h3>
 Description of Project 2
 
 ## <h2>Data Analysis</h2>
