@@ -40,7 +40,7 @@ Description of Project 2
 ### <h3>Project 2</h3>
 Description of Project 2
 
-### <h3>Project 2</h3>
+### <h3><a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/piscine.md">École 42: Piscine</a></h3>
 Description of Project 2
 
 ## <h2>Data Analysis</h2>
