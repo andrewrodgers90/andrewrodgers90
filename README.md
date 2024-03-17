@@ -39,7 +39,7 @@ Description of Project 2
 Description of Project 2
 
 ### <h3><a href="https://github.com/andrewrodgers90/42_fdf">École 42: fdf</a></h3>
-A program that reads a file and represents the contents as a 3D landscape.
+A program that reads a file and displays the contents as a 3D landscape.
 #### <h4>Topics</h4>
 + Graphics management
 
