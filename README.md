@@ -11,17 +11,22 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
 + **Controls**
   + Administrative/Managerial controls, Technical controls, Physical/Operational controls
 
-#### <a href="https://github.com/andrewrodgers90/analyze_network_layer_communication/tree/main">Analyze network layer communication</a> - This exercise is part of the '**Connect and Protect: Networks and Network Security**' module in the ''Google Cybersecurity Professional Certificate'', and its is to analyze a tcpdump log.
+#### <a href="https://github.com/andrewrodgers90/analyze_network_layer_communication/tree/main">Analyze network layer communication</a> - This exercise is part of the '**Connect and Protect: Networks and Network Security**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to analyze a tcpdump log.
 + **Packet sniffers**
   + tcpdump
 + **Protocols**
   + UDP, ICMP
 
-#### <a href="https://github.com/andrewrodgers90/analyze_network_attacks/tree/main">Analyze network attacks</a> - This exercise is part of the '**Connect and Protect: Networks and Network Security**' module in the ''Google Cybersecurity Professional Certificate'', and its purpose is to analyze a Wireshark log to identify the cause of a security breach.
+#### <a href="https://github.com/andrewrodgers90/analyze_network_attacks/tree/main">Analyze network attacks</a> - This exercise is part of the '**Connect and Protect: Networks and Network Security**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to analyze a Wireshark log to identify the cause of a security breach.
 + **Packet sniffers**
   + Wireshark
 + **DoS attacks**
   + SYN Flood Attack
+
+#### <a href="https://github.com/andrewrodgers90/apply_OS_hardening_techniques/tree/main">Apply OS hardening techniques</a> - This exercise part of the '**Connect and Protect: Networks and Network Security**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to review a brute force attack, and suggest OS hardening techniques to prevent further attacks.
++ **Brute force attacks**
++ **Hardening techniques**
+  + 2FA/MFA
 
 ## :keyboard: Software Engineering :keyboard:
 
