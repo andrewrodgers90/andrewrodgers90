@@ -23,10 +23,12 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
 + **DoS attacks**
   + SYN Flood Attack
 
-#### <a href="https://github.com/andrewrodgers90/apply_OS_hardening_techniques/tree/main">Apply OS hardening techniques</a> - This exercise part of the '**Connect and Protect: Networks and Network Security**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to review a brute force attack, and suggest OS hardening techniques to prevent further attacks.
+#### <a href="https://github.com/andrewrodgers90/apply_OS_hardening_techniques/tree/main">Apply OS hardening techniques</a> - This exercise is part of the '**Connect and Protect: Networks and Network Security**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to review a brute force attack, and suggest OS hardening techniques to prevent further attacks.
 + **Brute force attacks**
 + **Hardening techniques**
   + 2FA/MFA
+
+#### <a href="https://github.com/andrewrodgers90/manage_authorization/blob/main/README.md">Manage authorization</a> - This exercise is part of the '**Tools of the Trade**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to modify file permissions within a given directory.
 
 ## :keyboard: Software Engineering :keyboard:
 
