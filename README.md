@@ -29,6 +29,9 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
   + 2FA/MFA
 
 #### <a href="https://github.com/andrewrodgers90/manage_authorization/blob/main/README.md">Manage authorization</a> - This exercise is part of the '**Tools of the Trade**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to modify file permissions within a given directory.
++ **chmod**
+  + file permissions
++ **hidden files** 
 
 ## :keyboard: Software Engineering :keyboard:
 
