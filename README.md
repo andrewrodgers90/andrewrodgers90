@@ -35,6 +35,8 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
 
 ## :keyboard: Software Engineering :keyboard:
 
+#### <a href="https://github.com/andrewrodgers90/password_generator/tree/main">Python Password Generator</a> - A project to create a simple, random password generator in Python.
+
 #### <a href="https://github.com/andrewrodgers90/42_libft">École 42: libft</a> - A project about creating a library in C.
 + **Libraries, Makefiles, Header files**
 
