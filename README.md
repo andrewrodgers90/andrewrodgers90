@@ -67,7 +67,7 @@ Description of Project 1
 Description of Project 2
 
 ### :trophy: Qualifications and Certifications :trophy:
-<a href="https://www.coursera.org/google-certificates/cybersecurity-certificate?network=g&utm_source=gg&creativeid=693701665321&matchtype=p&adgroupid=165119487572&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNXAt_8j18BwKrshjpWbrgJpCQfqPhGyrrYAAGAKKxGWwPNNPP4HwYaAoWqEALw_wcB&keyword=google%20cybersecurity%20professional%20certificate&utm_content=B2C&hide_mobile_promo=&utm_campaign=B2C_APAC_Google_FTCOF_Cybersecurity_Google_Professional_Certificate_ArtE_Set_2_Mar_24&campaignid=21105066676&gad_source=1&devicemodel=&adpostion=&utm_medium=sem&device=c&redirected_from_description_page=true">Google Cybersecurity Professional Certificate</a> [in progress: expected completion date April 2024]
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JTWSM9V8BBV7">Google Cybersecurity Professional Certificate</a> [completed: April 2024]
 <br> <br>
 **Cadet at École 42 Bangkok** [in progress: expected completion date February 2025]
 <br><br>
