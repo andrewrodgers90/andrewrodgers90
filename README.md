@@ -69,6 +69,9 @@ Description of Project 2
 ### :trophy: Qualifications and Certifications :trophy:
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JTWSM9V8BBV7">Google Cybersecurity Professional Certificate</a> [completed: April 2024]
 <br> <br>
+
+**CompTIA Security+** [in progress]
+
 **Cadet at École 42 Bangkok** [in progress: expected completion date February 2025]
 <br><br>
 **HacktheBox** [in progress: ongoing]
