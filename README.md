@@ -68,7 +68,7 @@ Description of Project 2
 
 ### :trophy: Qualifications and Certifications :trophy:
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JTWSM9V8BBV7">Google Cybersecurity Professional Certificate</a> [completed: April 2024]
-<br> <br>
+<br>
 
 **CompTIA Security+** [in progress]
 
@@ -77,3 +77,5 @@ Description of Project 2
 **HacktheBox** [in progress: ongoing]
 
 ### :envelope: Contact :envelope:
+
+<a href="www.linkedin.com/in/andrew-rodgers-ab4b1b265">LinkedIn</a>
