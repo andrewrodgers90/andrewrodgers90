@@ -70,7 +70,7 @@ Description of Project 1
 Description of Project 2
 
 ### :trophy: Qualifications and Certifications :trophy:
-**ISC2 Certified in Cybersecurity** [expected completion date: May 2024]
+**ISC2 CC (Certified in Cybersecurity)** [expected completion date: May 2024]
 <br><br>
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JTWSM9V8BBV7">Google Cybersecurity Professional Certificate</a> [completed: April 2024]
 <br><br>
