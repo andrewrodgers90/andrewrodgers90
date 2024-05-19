@@ -46,11 +46,14 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
 #### <a href="https://github.com/andrewrodgers90/42_get_next_line">École 42: get_next_line</a> - A function that returns a line read from a file.
 + **Static variables**
 
+#### <a href="https://github.com/andrewrodgers90/42_philosophers:>École 42: philosophers</a> - A program about threads and mutexes.
++ **Threads, mutexes, deadlocks, data races**
+
 #### <a href="https://github.com/andrewrodgers90/42_push_swap">École 42: push_swap</a> - A data-sorting program.
 + **Algorithms, Linked lists**
 
 #### <a href="https://github.com/andrewrodgers90/42_pipex">École 42: pipex</a>
-Description of Project 2
++ **Pipes, processes**
 
 #### <a href="https://github.com/andrewrodgers90/42_fdf">École 42: fdf</a> - A program that reads a file and displays the contents as a 3D landscape.
 + **Graphics management**
