@@ -70,14 +70,14 @@ Description of Project 1
 Description of Project 2
 
 ### :trophy: Qualifications and Certifications :trophy:
-ISC2 Certified in Cybersecurity [expected completion date: May 2024]
-<br>
+**ISC2 Certified in Cybersecurity** [expected completion date: May 2024]
+<br><br>
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JTWSM9V8BBV7">Google Cybersecurity Professional Certificate</a> [completed: April 2024]
-<br>
+<br><br>
 **CompTIA Security+** [expected completion date: July 2024]
-<br>
+<br><br>
 **Cadet at École 42 Bangkok** [in progress: expected completion date February 2025]
-<br>
+<br><br>
 **HacktheBox** [in progress: ongoing]
 <br><br>
 ### :envelope: Contact :envelope:
