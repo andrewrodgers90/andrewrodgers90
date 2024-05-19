@@ -70,15 +70,16 @@ Description of Project 1
 Description of Project 2
 
 ### :trophy: Qualifications and Certifications :trophy:
+ISC2 Certified in Cybersecurity [expected completion date: May 2024]
+<br>
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JTWSM9V8BBV7">Google Cybersecurity Professional Certificate</a> [completed: April 2024]
 <br>
-
-**CompTIA Security+** [in progress]
-
+**CompTIA Security+** [expected completion date: July 2024]
+<br>
 **Cadet at École 42 Bangkok** [in progress: expected completion date February 2025]
-<br><br>
+<br>
 **HacktheBox** [in progress: ongoing]
-
+<br><br>
 ### :envelope: Contact :envelope:
 
 <a href="www.linkedin.com/in/andrew-rodgers-ab4b1b265">LinkedIn</a>
