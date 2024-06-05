@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
 
 ## :old_key: Cybersecurity :old_key:
 
-#### <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/tree/main">Conduct a security audit</a> - This exercise is part of the '**Play It Safe: Manage Security Risks**' module in the 'Google Cybersecurity Professional Certificate', and its purpose is to conduct an internal security audit. 
+#### <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/tree/main">Conduct a security audit</a> - Conduct an internal security audit. 
 + **Compliance**
   + GDPR, PCI DSS, SOC Type 1, SOC Type 2
 + **Controls**
