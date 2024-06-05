@@ -1,7 +1,7 @@
 # Hi, I'm Andrew!
 
 ## Introduction
-Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am currently training to become a cybersecurity analyst. Below is a collection of my projects and contributions.
+Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am currently training to become a cybersecurity analyst. Below is a collection of my projects and qualifications.
 
 ## :old_key: Cybersecurity :old_key:
 
