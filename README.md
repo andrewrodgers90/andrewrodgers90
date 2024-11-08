@@ -37,31 +37,31 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
 
 #### <a href="https://github.com/andrewrodgers90/password_generator/tree/main">Python Password Generator</a> - A project to create a simple, random password generator in Python.
 
-#### <a href="https://github.com/andrewrodgers90/42_fdf">École 42: Minishell</a> - Recreate the bash shell.
+#### <a href="https://github.com/andrewrodgers90/42_fdf">42 Bangkok: Minishell</a> - Recreate the bash shell.
 + **Shell, processes**
 
-#### <a href="https://github.com/andrewrodgers90/minishell">École 42: philosophers</a> - A program about threads and mutexes.
+#### <a href="https://github.com/andrewrodgers90/minishell">42 Bangkok: philosophers</a> - A program about threads and mutexes.
 + **Threads, mutexes, deadlocks, data races**
 
-#### <a href="https://github.com/andrewrodgers90/42_fdf">École 42: fdf</a> - Displays the contents of a file as a 3D landscape.
+#### <a href="https://github.com/andrewrodgers90/42_fdf">42 Bangkok: fdf</a> - Displays the contents of a file as a 3D landscape.
 + **Graphics management**
 
-#### <a href="https://github.com/andrewrodgers90/42_pipex">École 42: pipex</a>
+#### <a href="https://github.com/andrewrodgers90/42_pipex">42 Bangkok: pipex</a>
 + **Pipes, processes**
 
-#### <a href="https://github.com/andrewrodgers90/42_push_swap">École 42: push_swap</a> - A data-sorting program.
+#### <a href="https://github.com/andrewrodgers90/42_push_swap">42 Bangkok: push_swap</a> - A data-sorting program.
 + **Algorithms, Linked lists**
 
-#### <a href="https://github.com/andrewrodgers90/42_get_next_line">École 42: get_next_line</a> - Return a line read from a file.
+#### <a href="https://github.com/andrewrodgers90/42_get_next_line">42 Bangkok: get_next_line</a> - Return a line read from a file.
 + **Static variables**
 
-#### <a href="https://github.com/andrewrodgers90/42_ft_printf">École 42: ft_printf</a> - Recreate a simple version of the printf function.
+#### <a href="https://github.com/andrewrodgers90/42_ft_printf">42 Bangkok: ft_printf</a> - Recreate a simple version of the printf function.
 + **Variadic functions**
 
-#### <a href="https://github.com/andrewrodgers90/42_libft">École 42: libft</a> - Create a library in C.
+#### <a href="https://github.com/andrewrodgers90/42_libft">42 Bangkok: libft</a> - Create a library in C.
 + **Libraries, Makefiles, Header files**
 
-#### <a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/piscine.md">École 42: C Piscine</a> - A collection of functions, designed to introduce programmers to the C language.
+#### <a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/piscine.md">42 Bangkok: C Piscine</a> - A collection of functions, designed to introduce programmers to the C language.
 + **Strings, Arrays, Iterative/Recursive functions, argc/argv, ASCII, Structs, Makefiles, Header files, Memory allocation**
 
 <!--## :bar_chart: Data Analysis :bar_chart:
@@ -79,7 +79,7 @@ Description of Project 2-->
 <br><br>
 **CompTIA Security+** [expected completion date: December 2024]
 <br><br>
-**Cadet at École 42 Bangkok** [in progress: expected completion date March 2025]
+**Cadet at 42 Bangkok** [in progress: expected completion date March 2025]
 <br><br>
 ### :envelope: Contact :envelope:
 
