@@ -1,9 +1,7 @@
-# Hi, I'm Andrew!
-
-## Introduction
+## Hi, I'm Andrew!
 Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am currently training to become a cybersecurity analyst. Below is a collection of my projects and qualifications.
 
-## :old_key: Cybersecurity :old_key:
+### :old_key: Cybersecurity :old_key:
 
 #### <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/tree/main">Conduct a security audit</a> - Conduct an internal security audit. 
 + **Compliance**
@@ -33,7 +31,7 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
   + file permissions
 + **hidden files** 
 
-## :keyboard: Software Engineering :keyboard:
+### :keyboard: Software Engineering :keyboard:
 
 #### <a href="https://github.com/andrewrodgers90/password_generator/tree/main">Python Password Generator</a> - A project to create a simple, random password generator in Python.
 
@@ -63,6 +61,10 @@ Welcome to my GitHub portfolio! I'm passionate about cybersecurity and am curren
 
 #### <a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/piscine.md">42 Bangkok: C Piscine</a> - A collection of functions, designed to introduce programmers to the C language.
 + **Strings, Arrays, Iterative/Recursive functions, argc/argv, ASCII, Structs, Makefiles, Header files, Memory allocation**
+
+### :abacus: Algorithms :abacus:
+
+#### <a href="https://github.com/andrewrodgers90/leetcode">LeetCode</a>
 
 <!--## :bar_chart: Data Analysis :bar_chart:
 
