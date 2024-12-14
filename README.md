@@ -83,7 +83,7 @@ Description of Project 2-->
 <br><br>
 **CompTIA A+** [expected completion date: January 2025]
 <br><br>
-**Cadet at 42 Bangkok** [in progress: expected completion date March 2025]
+**Cadet at 42 Bangkok** [expected completion date: March 2025]
 <br><br>
 ### :envelope: Contact :envelope:
 
