@@ -81,7 +81,7 @@ Description of Project 2-->
 <br><br>
 <a href="https://www.credly.com/badges/415955a6-2948-41d0-a2dc-43c3b5e711f7/public_url">Google Cybersecurity Professional Certificate</a> [awarded: April 2024]
 <br><br>
-**CompTIA Security+** [expected completion date: December 2024]
+**CompTIA A+** [expected completion date: January 2025]
 <br><br>
 **Cadet at 42 Bangkok** [in progress: expected completion date March 2025]
 <br><br>
