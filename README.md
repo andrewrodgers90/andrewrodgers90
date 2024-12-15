@@ -35,7 +35,7 @@ Welcome to my GitHub portfolio! I am currently training to become a cybersecurit
 
 #### <a href="https://github.com/andrewrodgers90/password_generator/tree/main">Python Password Generator</a> - A project to create a simple, random password generator in Python.
 
-#### <a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/cpp.md">42 Bangkok: CPP Modules</a>
+#### <a href="https://github.com/andrewrodgers90/andrewrodgers90/blob/main/cpp.md">42 Bangkok: C++ Modules</a>
 
 #### <a href="https://github.com/andrewrodgers90/42_fdf">42 Bangkok: Minishell</a> - Recreate the bash shell.
 + **Shell, processes**
