@@ -77,6 +77,7 @@ Description of Project 1
 Description of Project 2-->
 
 ### :trophy: Qualifications and Certifications :trophy:
+<img src="https://tryhackme-badges.s3.amazonaws.com/and.rod.png" alt="Your Image Badge" />
 <a href="https://www.credly.com/badges/24f4dac1-20ce-4c9e-b8dd-478e92b7513e/public_url">ISC2 Certified in Cybersecurity (CC)</a> [awarded: June 2024]
 <br><br>
 <a href="https://www.credly.com/badges/415955a6-2948-41d0-a2dc-43c3b5e711f7/public_url">Google Cybersecurity Professional Certificate</a> [awarded: April 2024]
